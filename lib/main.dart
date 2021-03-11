@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
 
         theme: ThemeData(
-          primarySwatch: Colors.blue,
+          primarySwatch: Colors.deepPurple,
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
         routes: {
