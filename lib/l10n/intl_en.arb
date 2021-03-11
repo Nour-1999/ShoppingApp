@@ -1,0 +1,38 @@
+{
+  "buttonTitleSignIn": "Sign in",
+  "buttonTitleSignUp": "Sign up",
+
+  "AppBarLogInScreen": "Log In",
+  "AppBarSignUpScreen": "Sign up",
+  "AppBarCodeScreen": "Code Screen",
+
+  "emailLabelText": "Email Address",
+  "PasswordLabelText": "Password",
+  "SnackBarLogInScreen": "Processing Data",
+  "SubmitScreen": "Submit",
+  "ForgotYourPassword": "Forgot your password?",
+  "phoneNumberLabel": "Phone Number",
+
+  "NewPasswordLabelText": "New Password",
+  "ConfirmPasswordLabelText": "Confirm Password",
+  "ChangePasswordLabelText": "Change Password",
+
+  "Cancel": "Cancel",
+  "Abandon": "Abandon",
+  "AlertDialogContent": "Are you sure you want to abandon the form? Any changes will be lost.",
+  "LogOut":"Log out",
+
+  "MainPage": "Main Page",
+  "Setting": "Settings",
+  "MyCart": "My Cart",
+  "About":"About",
+  "MyPurchases": "My Purchases",
+  "MyActivities": "My Activities",
+  "ChangeLanguage": "Change Language",
+  "OldPassword": "Old Password",
+ "DoNotHaveAnAccount": "Don't have an account?",
+  "HaveAnAccount": "Have an account?",
+  "FlutterStore": "Flutter Store",
+  "ShareThisApp": "share this app",
+  "Version": "Version"
+}

@@ -1,0 +1,39 @@
+{
+  "buttonTitleSignIn": "تسجيل دخول ",
+  "buttonTitleSignUp": "إنشاء حساب",
+
+  "AppBarLogInScreen": "تسجيل دخول",
+  "AppBarSignUpScreen": "إنشاء حساب",
+  "AppBarCodeScreen": "إضافة الرمز",
+
+  "emailLabelText": "عنوان بريد الكتروني",
+  "PasswordLabelText": "كلمة المرور",
+  "SnackBarLogInScreen": " معالجة البيانات",
+  "SubmitScreen": "تأكيد",
+  "ForgotYourPassword": "هل نسيت كلمة المرور ؟",
+  "phoneNumberLabel": "رقم الموبايل ",
+
+  "NewPasswordLabelText": "كلمة المرور الجديدة",
+  "ConfirmPasswordLabelText": "تأكيد كلمة المرور",
+  "ChangePasswordLabelText": "تغيير كلمة المرور",
+
+  "Cancel": "إلغاء",
+  "Abandon": "استغناء",
+  "AlertDialogContent": " هل أنت متأكد أنك تريد التخلي عن النموذج؟ ستفقد أية تغييرات.",
+
+  "LogOut":"تسجيل خروج",
+  "MainPage": "الصفحة الرئيسية",
+  "Setting": "الضبط",
+  "MyCart": "سلة مشترياتي",
+  "About":"حول",
+  "MyPurchases": "مشترياتي",
+  "MyActivities": "نشاطاتي",
+  "ChangeLanguage": "تغيير اللغة",
+  "OldPassword": "كلمة المرور القديمة",
+  "DoNotHaveAnAccount": "ليس لديك حساب؟",
+
+  "HaveAnAccount": "هل لديك حساب؟",
+  "FlutterStore": "متجر Flutter",
+  "ShareThisApp": "مشاركة هذا التطبيق",
+  "Version": "الإصدار"
+}
